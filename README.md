@@ -9,9 +9,9 @@
   <p align="center">
     Windows 11 Tweak Software
     <br />
-    <a href="https://github.com/dknSEN/AfterFormat2.0/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dknSEN/AfterFormat2.0/issues">Request Feature</a>
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   </p>
 </div>
 
