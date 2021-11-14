@@ -8,10 +8,14 @@
 
   <p align="center">
     Windows 11 Tweak Software
-    <br />
+    <br/>
+<div align="center">
+
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+
+</div>
   </p>
 </div>
 
@@ -41,10 +45,3 @@ You can use them to;
 ![](https://i.hizliresim.com/6p77xmm.png)
 ![](https://i.hizliresim.com/jw2j14y.png)
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-
-</div>
