@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -19,7 +13,6 @@
     ·
     <a href="https://github.com/dknSEN/AfterFormat2.0/issues">Request Feature</a>
   </p>
-</div>
 
 
 <h2>📜About the Project</h2>
@@ -45,3 +38,4 @@ You can use them to;
 ![](https://i.hizliresim.com/g6dytcc.png)
 ![](https://i.hizliresim.com/6p77xmm.png)
 ![](https://i.hizliresim.com/jw2j14y.png)
+</div>
