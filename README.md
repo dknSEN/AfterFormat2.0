@@ -23,7 +23,7 @@
 
 You can use them to;
   <ul>
-    * Check your system information
+    <li>Check your system information</li>
     <li>Improve game performance</li>
     <li>Improve response time</li>
     <li>Disable unnecessary services</li>
