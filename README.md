@@ -1,5 +1,20 @@
-# AfterFormat2.0
-Windows 11 Tweak Software
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://i.hizliresim.com/c0fkzqa.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">AfterFormat2.0</h3>
+
+  <p align="center">
+    Windows 11 Tweak Software
+    <br />
+    <a href="https://github.com/dknSEN/AfterFormat2.0/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/dknSEN/AfterFormat2.0/issues">Request Feature</a>
+  </p>
+</div>
+
 
 <h2>📜About the Project</h2>
 
