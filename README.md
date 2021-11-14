@@ -19,15 +19,15 @@
 
 You can use them to;
 <div align="center">
-<ul>
-<li>Check your system information</li>
-<li>Improve game performance</li>
-<li>Improve response time</li>
-<li>Disable unnecessary services</li>
-<li>Cleaning cache files</li>
-<li>Uninstall windows apps</li>
-<li>Install tweak utilities and programs.</li>
-</ul>
+  <ul>
+    * Check your system information
+    <li>Improve game performance</li>
+    <li>Improve response time</li>
+    <li>Disable unnecessary services</li>
+    <li>Cleaning cache files</li>
+    <li>Uninstall windows apps</li>
+    <li>Install tweak utilities and programs.</li>
+  </ul>
 </div>
 
 <h2>🔨Build With</h2>
