@@ -10,9 +10,11 @@
     Windows 11 Tweak Software
     <br/>
 <div align="center">
+  
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/dknsen/The-Documentation-Compendium.svg)](https://github.com/dknSEN/AfterFormat2.0/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/dknsen/The-Documentation-Compendium.svg)](https://github.com/dknSEN/AfterFormat2.0/pulls)
+  
 </div>
   </p>
 </div>
