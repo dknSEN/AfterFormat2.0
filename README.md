@@ -20,7 +20,7 @@ You can use them to;
 
 <h2>📷Screenshot</h2>
 
-![](https://www.i.hizliresim.com/6xpz4l4.png)
-![](https://www.i.hizliresim.com/g6dytcc.png)
-![](https://www.i.hizliresim.com/6p77xmm.png)
-![](https://www.i.hizliresim.com/jw2j14y.png)
+![](https://i.hizliresim.com/6xpz4l4.png)
+![](https://i.hizliresim.com/g6dytcc.png)
+![](https://i.hizliresim.com/6p77xmm.png)
+![](https://i.hizliresim.com/jw2j14y.png)
