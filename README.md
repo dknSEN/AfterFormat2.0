@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/dknSEN/AfterFormat">
     <img src="https://i.hizliresim.com/c0fkzqa.png" alt="Logo" width="80" height="80">
   </a>
 
