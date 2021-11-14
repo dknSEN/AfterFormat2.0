@@ -22,7 +22,6 @@
 <h2>📜About the Project</h2>
 
 You can use them to;
-<div align="center">
   <ul>
     * Check your system information
     <li>Improve game performance</li>
@@ -32,7 +31,6 @@ You can use them to;
     <li>Uninstall windows apps</li>
     <li>Install tweak utilities and programs.</li>
   </ul>
-</div>
 
 <h2>🔨Build With</h2>
 
