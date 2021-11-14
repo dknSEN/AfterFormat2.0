@@ -12,7 +12,7 @@
 <div align="center">
   
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/dknsen/The-Documentation-Compendium.svg)](https://github.com/dknSEN/AfterFormat2.0/issues)
+  [![GitHub Issues](https://img.shields.io/github/issues/dknSEN/AfterFormat2.0)](https://github.com/dknSEN/AfterFormat2.0/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/dknsen/The-Documentation-Compendium.svg)](https://github.com/dknSEN/AfterFormat2.0/pulls)
   
 </div>
