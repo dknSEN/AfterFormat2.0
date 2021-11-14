@@ -13,11 +13,12 @@
     ·
     <a href="https://github.com/dknSEN/AfterFormat2.0/issues">Request Feature</a>
   </p>
-
+</div>
 
 <h2>📜About the Project</h2>
 
 You can use them to;
+<div align="center">
 <ul>
 <li>Check your system information</li>
 <li>Improve game performance</li>
@@ -27,6 +28,7 @@ You can use them to;
 <li>Uninstall windows apps</li>
 <li>Install tweak utilities and programs.</li>
 </ul>
+</div>
 
 <h2>🔨Build With</h2>
 
@@ -38,4 +40,3 @@ You can use them to;
 ![](https://i.hizliresim.com/g6dytcc.png)
 ![](https://i.hizliresim.com/6p77xmm.png)
 ![](https://i.hizliresim.com/jw2j14y.png)
-</div>
